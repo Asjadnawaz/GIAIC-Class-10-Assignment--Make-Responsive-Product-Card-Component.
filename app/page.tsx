@@ -14,7 +14,7 @@ export default function ProductCard() {
                         className="rounded-md"
                     />
                 </div>
-                <p className="text-center pt-5 text-lg font-semibold">PKR 5,000</p>
+                <p className="text-center pt-5 text-lg font-semibold">Nature</p>
                 <div className="flex justify-center items-center mt-3">
                     <button className="px-8 py-2 bg-blue-600 text-white rounded-md">
                         Buy Now
@@ -33,7 +33,7 @@ export default function ProductCard() {
                         className="rounded-md"
                     />
                 </div>
-                <p className="text-center pt-5 text-lg font-semibold">PKR 5,000</p>
+                <p className="text-center pt-5 text-lg font-semibold">Nature</p>
                 <div className="flex justify-center items-center mt-3">
                     <button className="px-8 py-2 bg-blue-600 text-white rounded-md">
                         Buy Now
@@ -52,7 +52,7 @@ export default function ProductCard() {
                         className="rounded-md"
                     />
                 </div>
-                <p className="text-center pt-5 text-lg font-semibold">PKR 5,000</p>
+                <p className="text-center pt-5 text-lg font-semibold">Nature</p>
                 <div className="flex justify-center items-center mt-3">
                     <button className="px-8 py-2 bg-blue-600 text-white rounded-md">
                         Buy Now
